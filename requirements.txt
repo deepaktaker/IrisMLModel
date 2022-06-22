@@ -6,7 +6,7 @@ jedi==0.15.1
 Jinja2==2.10.3
 joblib==0.14.0
 jsonschema==3.2.0
-numpy==1.18.4
+numpy==1.22.0
 nyoka==4.2.0
 olefile==0.46
 packaging==19.2
